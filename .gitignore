@@ -1,0 +1,18 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración privada
+.env
+.env.*
+
+# Registros
+*.log
+
+# Dependencias
+/vendor/
+/node_modules/
+
+# Configuración del editor
+.idea/
+.vscode/
